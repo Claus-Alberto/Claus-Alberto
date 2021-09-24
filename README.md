@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Claus-Alberto
+- 👀 I’m interested in everything about tecnology.
+- 🌱 I’m currently learning Python, C#, React and Selenium
